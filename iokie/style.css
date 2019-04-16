@@ -176,8 +176,8 @@ GLOBAL
 
 #servicios{
 	background-image: url(images/banner.jpg);
-	background-size: cover;
-	background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
 	color: #fff;
 	margin-top: 3%;
 }
@@ -228,7 +228,7 @@ header{
 	height: 30vh;
 	font-family: 'Oswald';
 	font-weight: 400;
-	background-color: #4E4E4E;
+	background-image: url(images/atardecer.png);
 	background-position: center;
 	background-size: cover; 
 }
